@@ -34,7 +34,7 @@ docker run -d -e COLLECTOR_ZIPKIN_HTTP_PORT=9411 -p 5775:5775/udp -p 6831:6831/u
 
 ### Web Shell Command
 Next, in the web shell, clone this project to your computer, cd to the web subdirectory and then running this
- command to exexute the web application in development mode:
+ command to execute the web application in development mode:
 
 `mvn clean package`
 
